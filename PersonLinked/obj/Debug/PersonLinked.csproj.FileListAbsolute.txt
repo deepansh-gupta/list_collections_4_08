@@ -1,0 +1,7 @@
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\bin\Debug\PersonLinked.exe.config
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\bin\Debug\PersonLinked.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\bin\Debug\PersonLinked.pdb
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\obj\Debug\PersonLinked.csprojAssemblyReference.cache
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\obj\Debug\PersonLinked.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\obj\Debug\PersonLinked.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\PersonLinked\obj\Debug\PersonLinked.pdb
